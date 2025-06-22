@@ -1,4 +1,4 @@
-import { Controller, Get } from '@nestjs/common';
+import { Controller, Get, Post } from '@nestjs/common';
 import { AppService } from './app.service';
 
 @Controller()
@@ -17,5 +17,9 @@ export class AppController {
   getnogocio() {
     return "elaias"
   }
-  
+
+  @Post("/teste")
+  createTest(){
+  return "eii cocota não  liga pra quem trás as nota"  
+  }
 }
