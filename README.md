@@ -27,8 +27,16 @@ A Card Processing Solutions (CPS) precisa desenvolver um sistema backend robusto
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-## Project setup
+## Pré - Requisitos
+instalar no terminal globalmente na maquina
+```bash
+npm i -g @nestjs/cli
+```
 
+## Project setup
+```bash
+$ git clone https://github.com/YslanProjects/System-Card.git
+```
 ```bash
 $ npm install
 ```
