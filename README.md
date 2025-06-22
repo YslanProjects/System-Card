@@ -22,6 +22,8 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
+## VISÃO GERAL DO PROJETO
+A Card Processing Solutions (CPS) precisa desenvolver um sistema backend robusto para gerenciar o ciclo completo de transações relacionadas a cartões de crédito/débito. Este sistema será responsável por processar operações críticas desde a solicitação inicial até o cancelamento definitivo do cartão, seguindo as melhores práticas de Domain-Driven Design (DDD).
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
